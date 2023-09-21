@@ -21,7 +21,7 @@ The code for this project can be found in the following GitHub repository: [inse
 
 ## Dashboard
 
-The Tableau Public dashboard for this project can be found here: [[insert link to your Tableau Public dashboard here]](https://public.tableau.com/views/CreditcardTransactionanalysis/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
+The Tableau Public dashboard for this project can be found here: [[Tableau Public dashboard here]](https://public.tableau.com/views/CreditcardTransactionanalysis/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 ## Getting Started
 
