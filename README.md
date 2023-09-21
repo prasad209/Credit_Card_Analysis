@@ -13,7 +13,7 @@ This project analyzes credit card transaction data using MS SQL Server and build
 ## Tools Used
 
 - MS SQL Server
-- Tableau
+- Tableau Public
 
 ## Code
 
