@@ -17,7 +17,7 @@ This project analyzes credit card transaction data using MS SQL Server and build
 
 ## Code
 
-The code for this project can be found in the following GitHub repository: [insert link to your code repository here]
+The code for this project can be found in the following GitHub repository: [[code repository here]](https://github.com/prasad209/Credit_Card_Analysis/commit/9f27a45687dd2970b435ce2aa3ddcbfffdc24a83)
 
 ## Dashboard
 
